@@ -45,6 +45,7 @@ code = 'k#pDmh7ZTs'
 decoded = b85decode(code.encode())
 print(decoded.decode())
 # Output: APR25-40
+```
 
 ### 🔹 3. Modified to 90% Discount
 
@@ -54,6 +55,7 @@ new_coupon = 'APR25-90'
 encoded = b85encode(new_coupon.encode())
 print(encoded.decode())
 # Output: k#pDmh7Z*x
+```
 
 ### 🔹 4. Used in Juice Shop Checkout
 Applied code k#pDmh7Z*x
