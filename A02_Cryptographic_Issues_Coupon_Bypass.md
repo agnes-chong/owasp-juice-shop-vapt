@@ -58,7 +58,7 @@ print(encoded.decode())
 ```
 
 ### 🔹 4. Used in Juice Shop Checkout
-Applied code k#pDmh7Z*x
-
+Applied code `k#pDmh7Z*x`
+---
 ✅ 90% discount applied instantly
 
