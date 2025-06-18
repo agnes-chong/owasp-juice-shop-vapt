@@ -1,6 +1,6 @@
 # 🔐 A02:2021 - Cryptographic Issues (Forged Coupon)
 **Author:** Agnes Chong  
-CTF/Assessment: OWASP Juice Shop VAPT (TAR UMT, BMIS3123)  
+**CTF/Assessment:** OWASP Juice Shop VAPT (TAR UMT, BMIS3123)  
 **Category:** Web | Cryptography  
 **Severity:** 🔥 High  
 **Date:** April 2025
@@ -59,6 +59,5 @@ print(encoded.decode())
 
 ### 🔹 4. Used in Juice Shop Checkout
 Applied code `k#pDmh7Z*x`
----
 ✅ 90% discount applied instantly
 
